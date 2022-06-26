@@ -1,0 +1,7 @@
+{
+    "name": "@test/test-two",
+    "version": "1.0.0",
+    "description": "Second testing package",
+    "main": "index.js",
+    "sideEffects": false
+}
