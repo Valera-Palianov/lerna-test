@@ -1,3 +1,3 @@
-const test = () => console.log("test yo yo")
+const test = () => console.log("test")
 
 module.exports = test
