@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.3.0](https://github.com/Valera-Palianov/lerna-test/compare/@test/test@1.2.0...@test/test@1.3.0) (2022-06-26)
+
+**Note:** Version bump only for package @test/test
+
+
+
+
+
 # [1.2.0](https://github.com/Valera-Palianov/lerna-test/compare/@test/test@1.1.0...@test/test@1.2.0) (2022-06-26)
 
 
